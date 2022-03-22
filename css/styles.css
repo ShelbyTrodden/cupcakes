@@ -1,9 +1,16 @@
-p.intro {
-  width: 50%;
+ol.smooth {
+  color: dark blue;
+  width: 60%;
   font-style: italic;
+  font-family: indy;
 }
-p.author {
+ol.flashy {
   width: 75%;
   font-style: italic;
   font-weight: bold;
+}
+ol.loud {
+  color: pink;
+  width: 60%;
+  font-family: century gothic;
 }
